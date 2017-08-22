@@ -1,0 +1,478 @@
+body{
+	background-color: #D1D0CE;
+}
+	
+h1{text-align:center;
+	background: linear-gradient(#565051, #B6B6B4);
+	color: #FFFFFF;
+	font-size: 5em;
+	text-shadow: 10px;
+	line-height: 120%;
+	text-shadow: #CCCCCC;
+	background-image: url("syria.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0;
+	}
+
+h2{
+	font-size: 1.3em;
+	font-family: arial;
+	color: #C34A2C;
+}
+
+
+table{
+border: 2px 
+solid #000066;  
+border-collapse:collapse;
+}
+
+td, th{
+padding: 0.5em; 
+border: 2px
+solid #483C32; 
+}
+
+label { 
+float: left;
+width: 120px; 
+display: block;     
+text-align: right; 
+padding-right: 10px;
+}
+
+input, textarea {
+margin-bottom: 20px; 
+display: block;} 
+
+#mySubmit {margin-left: 130px; }
+
+#nav { 
+font-weight: bold;
+text-align:center;
+float:none;
+width: auto;
+font-size: 5em;
+} 
+
+.nav a:link { color: #800517; }
+.nav a:visited {color: #7F5A58}
+.nav a:hover {color: #DEB887;}
+
+#middle{
+	width: 331px;
+	float: left;
+	padding-left: 16px;
+}
+
+#left{
+	width:331px;
+	float: left;
+	
+}
+
+#right{
+	width: 331px;
+	float: right;
+}
+
+#leftcolumn{
+float: left; 
+width:150px; 
+padding-left:30px; 
+padding-top:10px;
+}
+
+#leftcolumn ul{
+list-style-type: none;
+padding: 0;
+text-align: left;
+margin: 0;
+}
+
+#leftcolumn a{
+text-decoration: none;
+display: block;
+padding: 0.2em;
+font-size: 1.2em;
+border-bottom: 1px;
+border-color: #330000;
+}
+
+#rightcolumn{
+margin-left: 180px; 
+margin-right: 10px; 
+padding-bottom: 20px; 
+margin-top: 20px;
+display:block;
+}  
+
+.category {
+color:#848482; 
+font-weight:bold; 
+font-size:1.1em; 
+text-shadow:none;
+margin-bottom: 1em;
+}
+.heading{
+color:#800000;
+text-align:center;
+font-weight: bold;
+font-size: 2em;
+}
+.heading2{
+	font-family: arial;
+	color: #666362;
+	font-size: 1.3em;
+	font-style: italic;
+}
+.heading3{
+	font-family: arial;
+	color: #2B1B17;
+	font-size: 1.2em;
+}
+.heading4{
+	font-family: arial;
+	color: #666362;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.heading5{
+	font-family: arial;
+	color: #2B1B17;
+	font-size: 1.2em;
+}
+#wrapper { 
+background-color: #D1D0CE;
+margin-top: 0px; 
+margin-bottom: 0px; 
+width:80%; 
+min-width: 700px;
+font-size: 90%;
+}
+
+#mobile { display: none; }
+#desktop { display: inline; }
+
+@media only screen and (max-width: 1024px) {
+body { 
+background-color: #6699ff;
+background-image:url('gradientblue.jpg'); 
+color: #d5e3ff;
+font-family: Verdana, Arial, sans-serif; 
+}
+
+body{
+	background-color: #D1D0CE;
+}
+	
+h1{text-align:center;
+	background: linear-gradient(#565051, #B6B6B4);
+	color: #FFFFFF;
+	font-size: 5em;
+	text-shadow: 10px;
+	line-height: 120%;
+	text-shadow: #CCCCCC;
+	background-image: url("syria.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0;
+	}
+h2{
+	font-size: 1.3em;
+	font-family: arial;
+	color: #C34A2C;
+}
+
+table{
+border: 2px 
+solid #000066;  
+border-collapse:collapse;
+}
+
+td, th{
+padding: 0.5em; 
+border: 2px
+solid #483C32; 
+}
+
+label { 
+float: left;
+width: 120px; 
+display: block;     
+text-align: right; 
+padding-right: 10px;
+}
+
+input, textarea {
+margin-bottom: 20px; 
+display: block;} 
+
+#mySubmit {margin-left: 130px; }
+
+#nav { 
+font-weight: bold;
+text-align:center;
+float:none;
+width: auto;
+font-size: 5em;
+} 
+
+.nav a:link { color: #800517; }
+.nav a:visited {color: #7F5A58}
+.nav a:hover {color: #DEB887;}
+
+#middle{
+	width: 331px;
+	float: left;
+	padding-left: 16px;
+}
+
+#left{
+	width:331px;
+	float: left;
+	
+}
+
+#right{
+	width: 331px;
+	float: right;
+}
+
+#leftcolumn{
+float: left; 
+width:150px; 
+padding-left:30px; 
+padding-top:10px;
+}
+
+#leftcolumn ul{
+list-style-type: none;
+padding: 0;
+text-align: left;
+margin: 0;
+}
+
+#leftcolumn a{
+text-decoration: none;
+display: block;
+padding: 0.2em;
+font-size: 1.2em;
+border-bottom: 1px;
+border-color: #330000;
+}
+
+#rightcolumn{
+margin-left: 180px; 
+margin-right: 10px; 
+padding-bottom: 20px; 
+margin-top: 20px;
+display:block;
+}  
+
+.category {
+color:#848482; 
+font-weight:bold; 
+font-size:1.1em; 
+text-shadow:none;
+margin-bottom: 1em;
+}
+.heading{
+color:#800000;
+text-align:center;
+font-weight: bold;
+font-size: 2em;
+}
+.heading2{
+	font-family: arial;
+	color: #666362;
+	font-size: 1.3em;
+	font-style: italic;
+}
+.heading3{
+	font-family: arial;
+	color: #2B1B17;
+	font-size: 1.2em;
+}
+.heading4{
+	font-family: arial;
+	color: #666362;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.heading5{
+	font-family: arial;
+	color: #2B1B17;
+	font-size: 1.2em;
+}
+#wrapper { 
+background-color: #D1D0CE;
+margin-top: 0px; 
+margin-bottom: 0px; 
+width:80%; 
+min-width: 700px;
+font-size: 90%;
+}
+
+@media only screen and (max-width: 768px) {
+body { 
+background-color: #6699ff;
+background-image:url('gradientblue.jpg'); 
+color: #d5e3ff;
+font-family: Verdana, Arial, sans-serif; 
+}
+body{
+	background-color: #D1D0CE;
+}
+	
+h1{text-align:center;
+	background: linear-gradient(#565051, #B6B6B4);
+	color: #FFFFFF;
+	font-size: 5em;
+	text-shadow: 10px;
+	line-height: 120%;
+	text-shadow: #CCCCCC;
+	background-image: url("syria.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0;
+	}
+h2{
+	font-size: 1.3em;
+	font-family: arial;
+	color: #C34A2C;
+}
+
+table{
+border: 2px 
+solid #000066;  
+border-collapse:collapse;
+}
+
+td, th{
+padding: 0.5em; 
+border: 2px
+solid #483C32; 
+}
+
+label { 
+float: left;
+width: 120px; 
+display: block;     
+text-align: right; 
+padding-right: 10px;
+}
+
+input, textarea {
+margin-bottom: 20px; 
+display: block;} 
+
+#mySubmit {margin-left: 130px; }
+
+#nav { 
+font-weight: bold;
+text-align:center;
+float:none;
+width: auto;
+font-size: 5em;
+} 
+
+.nav a:link { color: #800517; }
+.nav a:visited {color: #7F5A58}
+.nav a:hover {color: #DEB887;}
+
+#middle{
+	width: 331px;
+	float: left;
+	padding-left: 16px;
+}
+
+#left{
+	width:331px;
+	float: left;
+	
+}
+
+#right{
+	width: 331px;
+	float: right;
+}
+
+#leftcolumn{
+float: left; 
+width:150px; 
+padding-left:30px; 
+padding-top:10px;
+}
+
+#leftcolumn ul{
+list-style-type: none;
+padding: 0;
+text-align: left;
+margin: 0;
+}
+
+#leftcolumn a{
+text-decoration: none;
+display: block;
+padding: 0.2em;
+font-size: 1.2em;
+border-bottom: 1px;
+border-color: #330000;
+}
+
+#rightcolumn{
+margin-left: 180px; 
+margin-right: 10px; 
+padding-bottom: 20px; 
+margin-top: 20px;
+display:block;
+}  
+
+.category {
+color:#848482; 
+font-weight:bold; 
+font-size:1.1em; 
+text-shadow:none;
+margin-bottom: 1em;
+}
+.heading{
+color:#800000;
+text-align:center;
+font-weight: bold;
+font-size: 2em;
+}
+.heading2{
+	font-family: arial;
+	color: #666362;
+	font-size: 1.3em;
+	font-style: italic;
+}
+.heading3{
+	font-family: arial;
+	color: #2B1B17;
+	font-size: 1.2em;
+}
+.heading4{
+	font-family: arial;
+	color: #666362;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.heading5{
+	font-family: arial;
+	color: #2B1B17;
+	font-size: 1.2em;
+}
+#wrapper { 
+background-color: #D1D0CE;
+margin-top: 0px; 
+margin-bottom: 0px; 
+width:80%; 
+min-width: 700px;
+font-size: 90%;
+}
+#mobile { display: inline; }
+#desktop { display: none; }
+
